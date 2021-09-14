@@ -1,0 +1,153 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 Waveform_Generator.o
+ .data          0x00000000        0x0 Waveform_Generator.o
+ .bss           0x00000000        0x0 Waveform_Generator.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD Waveform_Generator.o
+START GROUP
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m\libgcc.a
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
+END GROUP
+START GROUP
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m\libgcc.a
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libnosys.a
+END GROUP
+
+.text           0x08000000      0x1ac
+ *(.vectors)
+ .vectors       0x08000000       0x40 Waveform_Generator.o
+                0x08000000                vector_table
+ *(.text*)
+ .text.Reset_Handler
+                0x08000040       0x50 Waveform_Generator.o
+                0x08000040                Reset_Handler
+ .text._init_data
+                0x08000090       0x58 Waveform_Generator.o
+                0x08000090                _init_data
+ .text.Default_Handler
+                0x080000e8        0x2 Waveform_Generator.o
+                0x080000e8                Default_Handler
+ *fill*         0x080000ea        0x2 
+ .text.main     0x080000ec       0x94 Waveform_Generator.o
+                0x080000ec                main
+ .text.delay    0x08000180       0x1a Waveform_Generator.o
+                0x08000180                delay
+ *(.rodata*)
+ *fill*         0x0800019a        0x2 
+ .rodata.carray
+                0x0800019c       0x10 Waveform_Generator.o
+                0x0800019c                carray
+                0x080001ac                __etext = ALIGN (0x4)
+
+.glue_7         0x080001ac        0x0
+ .glue_7        0x080001ac        0x0 linker stubs
+
+.glue_7t        0x080001ac        0x0
+ .glue_7t       0x080001ac        0x0 linker stubs
+
+.vfp11_veneer   0x080001ac        0x0
+ .vfp11_veneer  0x080001ac        0x0 linker stubs
+
+.v4_bx          0x080001ac        0x0
+ .v4_bx         0x080001ac        0x0 linker stubs
+
+.iplt           0x080001ac        0x0
+ .iplt          0x080001ac        0x0 Waveform_Generator.o
+
+.rel.dyn        0x080001ac        0x0
+ .rel.iplt      0x080001ac        0x0 Waveform_Generator.o
+
+.data           0x20000000       0x10 load address 0x080001ac
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.iarray   0x20000000       0x10 Waveform_Generator.o
+                0x20000000                iarray
+                0x20000010                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end = .)
+                0x20000010                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end = .)
+                0x20000010                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x20000010                . = ALIGN (0x4)
+                0x20000010                __data_end__ = .
+
+.igot.plt       0x20000010        0x0 load address 0x080001bc
+ .igot.plt      0x20000010        0x0 Waveform_Generator.o
+
+.bss            0x20000010       0x10 load address 0x080001bc
+                0x20000010                . = ALIGN (0x4)
+                0x20000010                __bss_start__ = .
+ *(.bss*)
+ .bss.uarray    0x20000010       0x10 Waveform_Generator.o
+                0x20000010                uarray
+ *(COMMON)
+                0x20000020                . = ALIGN (0x4)
+                0x20000020                __bss_end__ = .
+
+.heap           0x20000020        0x0
+                0x20000020                __end__ = .
+                [!provide]                PROVIDE (end = .)
+ *(.heap*)
+                0x20000020                __HeapLimit = .
+
+.stack_dummy    0x20000020        0x0
+ *(.stack*)
+                0x20020000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20020000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20020000                PROVIDE (__stack = __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(Waveform_Generator.elf elf32-littlearm)
+
+.debug_info     0x00000000      0x406
+ .debug_info    0x00000000      0x406 Waveform_Generator.o
+
+.debug_abbrev   0x00000000      0x15b
+ .debug_abbrev  0x00000000      0x15b Waveform_Generator.o
+
+.debug_aranges  0x00000000       0x40
+ .debug_aranges
+                0x00000000       0x40 Waveform_Generator.o
+
+.debug_ranges   0x00000000       0x30
+ .debug_ranges  0x00000000       0x30 Waveform_Generator.o
+
+.debug_line     0x00000000       0xeb
+ .debug_line    0x00000000       0xeb Waveform_Generator.o
+
+.debug_str      0x00000000      0x34e
+ .debug_str     0x00000000      0x34e Waveform_Generator.o
+                                0x360 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f Waveform_Generator.o
+                                 0x80 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 Waveform_Generator.o
+
+.debug_frame    0x00000000       0x80
+ .debug_frame   0x00000000       0x80 Waveform_Generator.o

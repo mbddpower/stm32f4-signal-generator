@@ -1,0 +1,393 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+                              usb_standard.o (memcpy)
+c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+                              usb_standard.o (strlen)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 usb-vcp.o
+ .data          0x00000000        0x0 usb-vcp.o
+ .bss           0x00000000        0x0 usb-vcp.o
+ .text          0x00000000        0x0 usb.o
+ .data          0x00000000        0x0 usb.o
+ .bss           0x00000000        0x0 usb.o
+ .text.usbd_register_reset_callback
+                0x00000000       0x12 usb.o
+ .text.usbd_register_suspend_callback
+                0x00000000       0x12 usb.o
+ .text.usbd_register_resume_callback
+                0x00000000       0x12 usb.o
+ .text.usbd_register_sof_callback
+                0x00000000       0x12 usb.o
+ .text.usbd_disconnect
+                0x00000000       0x32 usb.o
+ .text          0x00000000        0x0 usb_standard.o
+ .data          0x00000000        0x0 usb_standard.o
+ .bss           0x00000000        0x0 usb_standard.o
+ .text.usbd_register_set_altsetting_callback
+                0x00000000       0x14 usb_standard.o
+ .text          0x00000000        0x0 usb_control.o
+ .data          0x00000000        0x0 usb_control.o
+ .bss           0x00000000        0x0 usb_control.o
+ .text          0x00000000        0x0 usb_dwc_common.o
+ .data          0x00000000        0x0 usb_dwc_common.o
+ .bss           0x00000000        0x0 usb_dwc_common.o
+ .text          0x00000000        0x0 usb_f107.o
+ .data          0x00000000        0x0 usb_f107.o
+ .bss           0x00000000        0x0 usb_f107.o
+ .text          0x00000000        0x0 system_stm32f4xx.o
+ .data          0x00000000        0x0 system_stm32f4xx.o
+ .bss           0x00000000        0x0 system_stm32f4xx.o
+ .text          0x00000000        0x0 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00020000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD usb-vcp.o
+LOAD usb.o
+LOAD usb_standard.o
+LOAD usb_control.o
+LOAD usb_dwc_common.o
+LOAD usb_f107.o
+LOAD system_stm32f4xx.o
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a
+START GROUP
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a
+LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a
+END GROUP
+
+.text           0x08000000     0x2720
+ *(.vectors)
+ .vectors       0x08000000       0x40 usb-vcp.o
+                0x08000000                vector_table
+ *(.text*)
+ .text.rcc_periph_clock_enable
+                0x08000040        0xa usb-vcp.o
+                0x08000040                rcc_periph_clock_enable
+ .text.Default_Handler
+                0x0800004a        0x2 usb-vcp.o
+                0x0800004a                Default_Handler
+ .text.Systick_Handler
+                0x0800004c       0x1c usb-vcp.o
+                0x0800004c                Systick_Handler
+ .text.init_systick
+                0x08000068       0x4c usb-vcp.o
+                0x08000068                init_systick
+ .text.cdcacm_control_request
+                0x080000b4       0x32 usb-vcp.o
+ *fill*         0x080000e6        0x2 
+ .text.cdcacm_set_config
+                0x080000e8       0x58 usb-vcp.o
+ .text.cdcacm_data_rx_cb
+                0x08000140      0x114 usb-vcp.o
+ .text.main     0x08000254      0x12c usb-vcp.o
+                0x08000254                main
+ .text.delay_ms
+                0x08000380       0x20 usb-vcp.o
+                0x08000380                delay_ms
+ .text.usbd_init
+                0x080003a0       0x88 usb.o
+                0x080003a0                usbd_init
+ .text._usbd_reset
+                0x08000428       0x4e usb.o
+                0x08000428                _usbd_reset
+ .text.usbd_poll
+                0x08000476       0x1a usb.o
+                0x08000476                usbd_poll
+ .text.usbd_ep_setup
+                0x08000490       0x42 usb.o
+                0x08000490                usbd_ep_setup
+ .text.usbd_ep_write_packet
+                0x080004d2       0x34 usb.o
+                0x080004d2                usbd_ep_write_packet
+ .text.usbd_ep_read_packet
+                0x08000506       0x34 usb.o
+                0x08000506                usbd_ep_read_packet
+ .text.usbd_ep_stall_set
+                0x0800053a       0x2e usb.o
+                0x0800053a                usbd_ep_stall_set
+ .text.usbd_ep_stall_get
+                0x08000568       0x28 usb.o
+                0x08000568                usbd_ep_stall_get
+ .text.usbd_ep_nak_set
+                0x08000590       0x2e usb.o
+                0x08000590                usbd_ep_nak_set
+ .text.usbd_register_set_config_callback
+                0x080005be       0x56 usb_standard.o
+                0x080005be                usbd_register_set_config_callback
+ .text.build_config_descriptor
+                0x08000614      0x35a usb_standard.o
+ .text.usb_descriptor_type
+                0x0800096e       0x16 usb_standard.o
+ .text.usb_descriptor_index
+                0x08000984       0x14 usb_standard.o
+ .text.usb_standard_get_descriptor
+                0x08000998      0x17a usb_standard.o
+ .text.usb_standard_set_address
+                0x08000b12       0x5c usb_standard.o
+ .text.usb_standard_set_configuration
+                0x08000b6e      0x144 usb_standard.o
+ .text.usb_standard_get_configuration
+                0x08000cb2       0x56 usb_standard.o
+ .text.usb_standard_set_interface
+                0x08000d08       0xb6 usb_standard.o
+ .text.usb_standard_get_interface
+                0x08000dbe       0x6e usb_standard.o
+ .text.usb_standard_device_get_status
+                0x08000e2c       0x32 usb_standard.o
+ .text.usb_standard_interface_get_status
+                0x08000e5e       0x32 usb_standard.o
+ .text.usb_standard_endpoint_get_status
+                0x08000e90       0x50 usb_standard.o
+ .text.usb_standard_endpoint_stall
+                0x08000ee0       0x28 usb_standard.o
+ .text.usb_standard_endpoint_unstall
+                0x08000f08       0x28 usb_standard.o
+ .text._usbd_standard_request_device
+                0x08000f30       0xa4 usb_standard.o
+                0x08000f30                _usbd_standard_request_device
+ .text._usbd_standard_request_interface
+                0x08000fd4       0x8c usb_standard.o
+                0x08000fd4                _usbd_standard_request_interface
+ .text._usbd_standard_request_endpoint
+                0x08001060       0xac usb_standard.o
+                0x08001060                _usbd_standard_request_endpoint
+ .text._usbd_standard_request
+                0x0800110c       0x6a usb_standard.o
+                0x0800110c                _usbd_standard_request
+ .text.stall_transaction
+                0x08001176       0x20 usb_control.o
+ .text.needs_zlp
+                0x08001196       0x4a usb_control.o
+ .text.usbd_register_control_callback
+                0x080011e0       0x6e usb_control.o
+                0x080011e0                usbd_register_control_callback
+ .text.usb_control_send_chunk
+                0x0800124e       0x9a usb_control.o
+ .text.usb_control_recv_chunk
+                0x080012e8       0x72 usb_control.o
+ .text.usb_control_request_dispatch
+                0x0800135a       0xaa usb_control.o
+ .text.usb_control_setup_read
+                0x08001404       0x7e usb_control.o
+ .text.usb_control_setup_write
+                0x08001482       0x60 usb_control.o
+ .text._usbd_control_setup
+                0x080014e2       0x5a usb_control.o
+                0x080014e2                _usbd_control_setup
+ .text._usbd_control_out
+                0x0800153c       0xd2 usb_control.o
+                0x0800153c                _usbd_control_out
+ .text._usbd_control_in
+                0x0800160e       0x94 usb_control.o
+                0x0800160e                _usbd_control_in
+ .text.dwc_set_address
+                0x080016a2       0x3a usb_dwc_common.o
+                0x080016a2                dwc_set_address
+ .text.dwc_ep_setup
+                0x080016dc      0x2f2 usb_dwc_common.o
+                0x080016dc                dwc_ep_setup
+ .text.dwc_endpoints_reset
+                0x080019ce       0xc2 usb_dwc_common.o
+                0x080019ce                dwc_endpoints_reset
+ .text.dwc_ep_stall_set
+                0x08001a90      0x1d2 usb_dwc_common.o
+                0x08001a90                dwc_ep_stall_set
+ .text.dwc_ep_stall_get
+                0x08001c62       0x66 usb_dwc_common.o
+                0x08001c62                dwc_ep_stall_get
+ .text.dwc_ep_nak_set
+                0x08001cc8       0x9a usb_dwc_common.o
+                0x08001cc8                dwc_ep_nak_set
+ .text.dwc_ep_write_packet
+                0x08001d62       0xd4 usb_dwc_common.o
+                0x08001d62                dwc_ep_write_packet
+ .text.dwc_ep_read_packet
+                0x08001e36       0xbc usb_dwc_common.o
+                0x08001e36                dwc_ep_read_packet
+ .text.dwc_flush_txfifo
+                0x08001ef2       0xca usb_dwc_common.o
+ .text.dwc_poll
+                0x08001fbc      0x352 usb_dwc_common.o
+                0x08001fbc                dwc_poll
+ .text.dwc_disconnect
+                0x0800230e       0x5a usb_dwc_common.o
+                0x0800230e                dwc_disconnect
+ .text.stm32f107_usbd_init
+                0x08002368      0x100 usb_f107.o
+ .text._init_data
+                0x08002468       0x58 system_stm32f4xx.o
+                0x08002468                _init_data
+ .text.Reset_Handler
+                0x080024c0       0x24 system_stm32f4xx.o
+                0x080024c0                Reset_Handler
+ .text.reset_clock
+                0x080024e4       0x40 system_stm32f4xx.o
+                0x080024e4                reset_clock
+ .text.set_sysclk_to_168
+                0x08002524       0xbc system_stm32f4xx.o
+                0x08002524                set_sysclk_to_168
+ .text.memcpy   0x080025e0       0x16 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+                0x080025e0                memcpy
+ .text          0x080025f6       0x10 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+                0x080025f6                strlen
+ *(.rodata*)
+ *fill*         0x08002606        0x2 
+ .rodata.dev    0x08002608       0x12 usb-vcp.o
+ *fill*         0x0800261a        0x2 
+ .rodata        0x0800261c       0x2a usb-vcp.o
+ *fill*         0x08002646        0x2 
+ .rodata.comm_endp
+                0x08002648        0xf usb-vcp.o
+ *fill*         0x08002657        0x1 
+ .rodata.data_endp
+                0x08002658       0x1e usb-vcp.o
+ *fill*         0x08002676        0x2 
+ .rodata.cdcacm_functional_descriptors
+                0x08002678       0x13 usb-vcp.o
+ *fill*         0x0800268b        0x1 
+ .rodata.comm_iface
+                0x0800268c       0x15 usb-vcp.o
+ *fill*         0x080026a1        0x3 
+ .rodata.data_iface
+                0x080026a4       0x15 usb-vcp.o
+ *fill*         0x080026b9        0x3 
+ .rodata.ifaces
+                0x080026bc       0x20 usb-vcp.o
+ .rodata.config
+                0x080026dc        0xd usb-vcp.o
+ *fill*         0x080026e9        0x3 
+ .rodata.stm32f107_usb_driver
+                0x080026ec       0x34 usb_f107.o
+                0x080026ec                stm32f107_usb_driver
+                0x08002720                __etext = ALIGN (0x4)
+
+.glue_7         0x08002720        0x0
+ .glue_7        0x08002720        0x0 linker stubs
+
+.glue_7t        0x08002720        0x0
+ .glue_7t       0x08002720        0x0 linker stubs
+
+.vfp11_veneer   0x08002720        0x0
+ .vfp11_veneer  0x08002720        0x0 linker stubs
+
+.v4_bx          0x08002720        0x0
+ .v4_bx         0x08002720        0x0 linker stubs
+
+.iplt           0x08002720        0x0
+ .iplt          0x08002720        0x0 usb-vcp.o
+
+.rel.dyn        0x08002720        0x0
+ .rel.iplt      0x08002720        0x0 usb-vcp.o
+
+.data           0x20000000        0xc load address 0x08002720
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.usb_strings
+                0x20000000        0xc usb-vcp.o
+                0x2000000c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end = .)
+                0x2000000c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end = .)
+                0x2000000c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                __data_end__ = .
+
+.igot.plt       0x2000000c        0x0 load address 0x0800272c
+ .igot.plt      0x2000000c        0x0 usb-vcp.o
+
+.bss            0x2000000c      0x1e0 load address 0x0800272c
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                __bss_start__ = .
+ *(.bss*)
+ .bss.tDelay    0x2000000c        0x4 usb-vcp.o
+ .bss.counter   0x20000010        0x4 usb-vcp.o
+                0x20000010                counter
+ .bss.buf       0x20000014       0x40 usb-vcp.o
+                0x20000014                buf
+ .bss.message   0x20000054       0x19 usb-vcp.o
+                0x20000054                message
+ *fill*         0x2000006d        0x3 
+ .bss.usbd_control_buffer
+                0x20000070       0x80 usb-vcp.o
+                0x20000070                usbd_control_buffer
+ .bss.usbd_dev  0x200000f0       0xfc usb_f107.o
+ *(COMMON)
+                0x200001ec                . = ALIGN (0x4)
+                0x200001ec                __bss_end__ = .
+
+.heap           0x200001ec        0x0
+                0x200001ec                __end__ = .
+                [!provide]                PROVIDE (end = .)
+ *(.heap*)
+                0x200001ec                __HeapLimit = .
+
+.stack_dummy    0x200001ec        0x0
+ *(.stack*)
+                0x20020000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20020000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20020000                PROVIDE (__stack = __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(usb-vcp.elf elf32-littlearm)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f usb-vcp.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 usb.o
+ .comment       0x0000007f       0x80 usb_standard.o
+ .comment       0x0000007f       0x80 usb_control.o
+ .comment       0x0000007f       0x80 usb_dwc_common.o
+ .comment       0x0000007f       0x80 usb_f107.o
+ .comment       0x0000007f       0x80 system_stm32f4xx.o
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x37 usb-vcp.o
+ .ARM.attributes
+                0x00000037       0x37 usb.o
+ .ARM.attributes
+                0x0000006e       0x37 usb_standard.o
+ .ARM.attributes
+                0x000000a5       0x37 usb_control.o
+ .ARM.attributes
+                0x000000dc       0x37 usb_dwc_common.o
+ .ARM.attributes
+                0x00000113       0x37 usb_f107.o
+ .ARM.attributes
+                0x0000014a       0x37 system_stm32f4xx.o
+ .ARM.attributes
+                0x00000181       0x32 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000001b3       0x1b c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+
+.debug_frame    0x00000000       0x28
+ .debug_frame   0x00000000       0x28 c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
