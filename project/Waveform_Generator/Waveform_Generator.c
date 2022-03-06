@@ -100,24 +100,26 @@ void Default_Handler(void)
 
 void Systick_Handler(void){											// Controls LED for indication of processes
 	
-	
 	if(mode == 0){	
   		GPIOD->ODR = (uint16_t)(i << 12); 						// Write i to GPIOD->ODR register
-	if( i == 0xF0 ){
-		init_systick(5250000, 1);			// Set systick to 250 ms
-		i = 1;
+		if( i == 0xF0 )
+		{
+			init_systick(5250000, 1);			// Set systick to 250 ms
+			i = 1;
+		}
+		if ( i == 0x08 )
+		{
+			i = 1;		
+		}
+		else 
+		{
+			i = (uint8_t)(i << 1);
+		}
 	}
-	if ( i == 0x08 ){
-		i = 1;		
-	} else {
-		i = (uint8_t)(i << 1);
-	}
-	}
-
-	else if(mode == 1){
+	else if(mode == 1)
+	{
 		GPIOD->ODR ^= (uint16_t)(i << 12);					// Toggle all LEDs on PD12 13, 14, 15
 	}
-
 }
 
 void tim2_handler(void)
@@ -361,9 +363,9 @@ static void cdcacm_data_rx_cb(usbd_device *usbd_dev, uint8_t ep)
 	(void)ep;
 
 	 
-	int len = usbd_ep_read_packet(usbd_dev, 0x01, buf, 1);										// get 1 byte
+	int len = usbd_ep_read_packet(usbd_dev, 0x01, buf, 1);				// get 1 byte
 
-	while (usbd_ep_write_packet(usbd_dev, 0x82, buf, 1) == 0);								// echo it
+	while (usbd_ep_write_packet(usbd_dev, 0x82, buf, 1) == 0);			// echo it
 
 	if(process == 0 ){
 		

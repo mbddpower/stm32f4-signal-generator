@@ -1,9 +1,226 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o)
+                              Waveform_Generator.o (sin)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o)
+                              Waveform_Generator.o (pow)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o) (__ieee754_rem_pio2)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_sqrt.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_cos.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o) (__kernel_cos)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o) (__kernel_rem_pio2)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_sin.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o) (__kernel_sin)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_fabs.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o) (fabs)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_finite.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o) (finite)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_floor.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o) (floor)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_lib_ver.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o) (__fdlib_version)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_matherr.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o) (matherr)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_nan.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o) (nan)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_rint.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o) (rint)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_scalbn.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o) (scalbn)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_copysign.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_scalbn.o) (copysign)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-errno.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o) (__errno)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-impure.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-errno.o) (_impure_ptr)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+                              usb_standard.o (memcpy)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o)
+                              Waveform_Generator.o (rand)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+                              usb_standard.o (strlen)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o) (malloc)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-freer.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o) (_free_r)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o) (_malloc_r)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-mlock.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o) (errno)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a(sbrk.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_addsubdf3.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o) (__aeabi_dsub)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_muldivdf3.o)
+                              Waveform_Generator.o (__aeabi_dmul)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_cmpdf2.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o) (__aeabi_dcmpeq)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_unorddf2.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o) (__aeabi_dcmpun)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixdfsi.o)
+                              e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o) (__aeabi_d2iz)
+e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixunsdfsi.o)
+                              Waveform_Generator.o (__aeabi_d2uiz)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
 
 Discarded input sections
 
  .text          0x00000000        0x0 Waveform_Generator.o
  .data          0x00000000        0x0 Waveform_Generator.o
  .bss           0x00000000        0x0 Waveform_Generator.o
+ .text          0x00000000        0x0 usb.o
+ .data          0x00000000        0x0 usb.o
+ .bss           0x00000000        0x0 usb.o
+ .text.usbd_register_reset_callback
+                0x00000000       0x12 usb.o
+ .text.usbd_register_suspend_callback
+                0x00000000       0x12 usb.o
+ .text.usbd_register_resume_callback
+                0x00000000       0x12 usb.o
+ .text.usbd_register_sof_callback
+                0x00000000       0x12 usb.o
+ .text.usbd_disconnect
+                0x00000000       0x32 usb.o
+ .text          0x00000000        0x0 usb_standard.o
+ .data          0x00000000        0x0 usb_standard.o
+ .bss           0x00000000        0x0 usb_standard.o
+ .text.usbd_register_set_altsetting_callback
+                0x00000000       0x14 usb_standard.o
+ .text          0x00000000        0x0 usb_control.o
+ .data          0x00000000        0x0 usb_control.o
+ .bss           0x00000000        0x0 usb_control.o
+ .text          0x00000000        0x0 usb_dwc_common.o
+ .data          0x00000000        0x0 usb_dwc_common.o
+ .bss           0x00000000        0x0 usb_dwc_common.o
+ .text          0x00000000        0x0 usb_f107.o
+ .data          0x00000000        0x0 usb_f107.o
+ .bss           0x00000000        0x0 usb_f107.o
+ .text          0x00000000        0x0 system_stm32f4xx.o
+ .data          0x00000000        0x0 system_stm32f4xx.o
+ .bss           0x00000000        0x0 system_stm32f4xx.o
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_sqrt.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_sqrt.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_cos.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_cos.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_cos.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_sin.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_sin.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_sin.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_fabs.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_fabs.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_fabs.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_finite.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_finite.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_finite.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_floor.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_floor.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_floor.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_nan.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_nan.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_nan.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_rint.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_rint.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_rint.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_scalbn.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_scalbn.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_scalbn.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_copysign.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_copysign.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o)
+ .text.srand    0x00000000       0x48 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x00000000       0x9c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000       0x38 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb8 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixunsdfsi.o)
 
 Memory Configuration
 
@@ -15,104 +232,517 @@ RAM              0x20000000         0x00020000         xrw
 Linker script and memory map
 
 LOAD Waveform_Generator.o
+LOAD usb.o
+LOAD usb_standard.o
+LOAD usb_control.o
+LOAD usb_dwc_common.o
+LOAD usb_f107.o
+LOAD system_stm32f4xx.o
+LOAD e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a
+LOAD e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a
+LOAD e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a
 START GROUP
-LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m\libgcc.a
-LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
+LOAD e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a
+LOAD e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a
 END GROUP
 START GROUP
-LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m\libgcc.a
-LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a
-LOAD c:/development/tools/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libnosys.a
+LOAD e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a
+LOAD e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a
 END GROUP
 
-.text           0x08000000      0x1ac
+.text           0x08000000     0x6638
  *(.vectors)
- .vectors       0x08000000       0x40 Waveform_Generator.o
+ .vectors       0x08000000      0x184 Waveform_Generator.o
                 0x08000000                vector_table
  *(.text*)
- .text.Reset_Handler
-                0x08000040       0x50 Waveform_Generator.o
-                0x08000040                Reset_Handler
- .text._init_data
-                0x08000090       0x58 Waveform_Generator.o
-                0x08000090                _init_data
+ .text.__NVIC_EnableIRQ
+                0x08000184       0x34 Waveform_Generator.o
+ .text.rcc_periph_clock_enable
+                0x080001b8        0xa Waveform_Generator.o
+                0x080001b8                rcc_periph_clock_enable
  .text.Default_Handler
-                0x080000e8        0x2 Waveform_Generator.o
-                0x080000e8                Default_Handler
- *fill*         0x080000ea        0x2 
- .text.main     0x080000ec       0x94 Waveform_Generator.o
-                0x080000ec                main
- .text.delay    0x08000180       0x1a Waveform_Generator.o
-                0x08000180                delay
+                0x080001c2        0x2 Waveform_Generator.o
+                0x080001c2                Default_Handler
+ .text.Systick_Handler
+                0x080001c4       0x84 Waveform_Generator.o
+                0x080001c4                Systick_Handler
+ .text.tim2_handler
+                0x08000248       0xb4 Waveform_Generator.o
+                0x08000248                tim2_handler
+ .text.init_systick
+                0x080002fc       0x4c Waveform_Generator.o
+                0x080002fc                init_systick
+ .text.init_timer2
+                0x08000348       0x58 Waveform_Generator.o
+                0x08000348                init_timer2
+ .text.cdcacm_control_request
+                0x080003a0       0x32 Waveform_Generator.o
+ *fill*         0x080003d2        0x2 
+ .text.cdcacm_set_config
+                0x080003d4       0x58 Waveform_Generator.o
+ .text.cdcacm_data_rx_cb
+                0x0800042c      0x4bc Waveform_Generator.o
+ .text.print    0x080008e8       0x40 Waveform_Generator.o
+                0x080008e8                print
+ .text.prints   0x08000928       0x2e Waveform_Generator.o
+                0x08000928                prints
+ .text.printm   0x08000956       0x2e Waveform_Generator.o
+                0x08000956                printm
+ .text.main     0x08000984      0x77c Waveform_Generator.o
+                0x08000984                main
+ .text.usbd_init
+                0x08001100       0x88 usb.o
+                0x08001100                usbd_init
+ .text._usbd_reset
+                0x08001188       0x4e usb.o
+                0x08001188                _usbd_reset
+ .text.usbd_poll
+                0x080011d6       0x1a usb.o
+                0x080011d6                usbd_poll
+ .text.usbd_ep_setup
+                0x080011f0       0x42 usb.o
+                0x080011f0                usbd_ep_setup
+ .text.usbd_ep_write_packet
+                0x08001232       0x34 usb.o
+                0x08001232                usbd_ep_write_packet
+ .text.usbd_ep_read_packet
+                0x08001266       0x34 usb.o
+                0x08001266                usbd_ep_read_packet
+ .text.usbd_ep_stall_set
+                0x0800129a       0x2e usb.o
+                0x0800129a                usbd_ep_stall_set
+ .text.usbd_ep_stall_get
+                0x080012c8       0x28 usb.o
+                0x080012c8                usbd_ep_stall_get
+ .text.usbd_ep_nak_set
+                0x080012f0       0x2e usb.o
+                0x080012f0                usbd_ep_nak_set
+ .text.usbd_register_set_config_callback
+                0x0800131e       0x56 usb_standard.o
+                0x0800131e                usbd_register_set_config_callback
+ .text.build_config_descriptor
+                0x08001374      0x35a usb_standard.o
+ .text.usb_descriptor_type
+                0x080016ce       0x16 usb_standard.o
+ .text.usb_descriptor_index
+                0x080016e4       0x14 usb_standard.o
+ .text.usb_standard_get_descriptor
+                0x080016f8      0x17a usb_standard.o
+ .text.usb_standard_set_address
+                0x08001872       0x5c usb_standard.o
+ .text.usb_standard_set_configuration
+                0x080018ce      0x144 usb_standard.o
+ .text.usb_standard_get_configuration
+                0x08001a12       0x56 usb_standard.o
+ .text.usb_standard_set_interface
+                0x08001a68       0xb6 usb_standard.o
+ .text.usb_standard_get_interface
+                0x08001b1e       0x6e usb_standard.o
+ .text.usb_standard_device_get_status
+                0x08001b8c       0x32 usb_standard.o
+ .text.usb_standard_interface_get_status
+                0x08001bbe       0x32 usb_standard.o
+ .text.usb_standard_endpoint_get_status
+                0x08001bf0       0x50 usb_standard.o
+ .text.usb_standard_endpoint_stall
+                0x08001c40       0x28 usb_standard.o
+ .text.usb_standard_endpoint_unstall
+                0x08001c68       0x28 usb_standard.o
+ .text._usbd_standard_request_device
+                0x08001c90       0xa4 usb_standard.o
+                0x08001c90                _usbd_standard_request_device
+ .text._usbd_standard_request_interface
+                0x08001d34       0x8c usb_standard.o
+                0x08001d34                _usbd_standard_request_interface
+ .text._usbd_standard_request_endpoint
+                0x08001dc0       0xac usb_standard.o
+                0x08001dc0                _usbd_standard_request_endpoint
+ .text._usbd_standard_request
+                0x08001e6c       0x6a usb_standard.o
+                0x08001e6c                _usbd_standard_request
+ .text.stall_transaction
+                0x08001ed6       0x20 usb_control.o
+ .text.needs_zlp
+                0x08001ef6       0x4a usb_control.o
+ .text.usbd_register_control_callback
+                0x08001f40       0x6e usb_control.o
+                0x08001f40                usbd_register_control_callback
+ .text.usb_control_send_chunk
+                0x08001fae       0x9a usb_control.o
+ .text.usb_control_recv_chunk
+                0x08002048       0x72 usb_control.o
+ .text.usb_control_request_dispatch
+                0x080020ba       0xaa usb_control.o
+ .text.usb_control_setup_read
+                0x08002164       0x7e usb_control.o
+ .text.usb_control_setup_write
+                0x080021e2       0x60 usb_control.o
+ .text._usbd_control_setup
+                0x08002242       0x5a usb_control.o
+                0x08002242                _usbd_control_setup
+ .text._usbd_control_out
+                0x0800229c       0xd2 usb_control.o
+                0x0800229c                _usbd_control_out
+ .text._usbd_control_in
+                0x0800236e       0x94 usb_control.o
+                0x0800236e                _usbd_control_in
+ .text.dwc_set_address
+                0x08002402       0x3a usb_dwc_common.o
+                0x08002402                dwc_set_address
+ .text.dwc_ep_setup
+                0x0800243c      0x2f2 usb_dwc_common.o
+                0x0800243c                dwc_ep_setup
+ .text.dwc_endpoints_reset
+                0x0800272e       0xc2 usb_dwc_common.o
+                0x0800272e                dwc_endpoints_reset
+ .text.dwc_ep_stall_set
+                0x080027f0      0x1d2 usb_dwc_common.o
+                0x080027f0                dwc_ep_stall_set
+ .text.dwc_ep_stall_get
+                0x080029c2       0x66 usb_dwc_common.o
+                0x080029c2                dwc_ep_stall_get
+ .text.dwc_ep_nak_set
+                0x08002a28       0x9a usb_dwc_common.o
+                0x08002a28                dwc_ep_nak_set
+ .text.dwc_ep_write_packet
+                0x08002ac2       0xd4 usb_dwc_common.o
+                0x08002ac2                dwc_ep_write_packet
+ .text.dwc_ep_read_packet
+                0x08002b96       0xbc usb_dwc_common.o
+                0x08002b96                dwc_ep_read_packet
+ .text.dwc_flush_txfifo
+                0x08002c52       0xca usb_dwc_common.o
+ .text.dwc_poll
+                0x08002d1c      0x352 usb_dwc_common.o
+                0x08002d1c                dwc_poll
+ .text.dwc_disconnect
+                0x0800306e       0x5a usb_dwc_common.o
+                0x0800306e                dwc_disconnect
+ .text.stm32f107_usbd_init
+                0x080030c8      0x100 usb_f107.o
+ .text._init_data
+                0x080031c8       0x58 system_stm32f4xx.o
+                0x080031c8                _init_data
+ .text.Reset_Handler
+                0x08003220       0x24 system_stm32f4xx.o
+                0x08003220                Reset_Handler
+ .text.reset_clock
+                0x08003244       0x40 system_stm32f4xx.o
+                0x08003244                reset_clock
+ .text.set_sysclk_to_168
+                0x08003284       0xbc system_stm32f4xx.o
+                0x08003284                set_sysclk_to_168
+ .text.sin      0x08003340       0x88 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o)
+                0x08003340                sin
+ .text.pow      0x080033c8      0x33c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o)
+                0x080033c8                pow
+ *fill*         0x08003704        0x4 
+ .text.__ieee754_pow
+                0x08003708      0xaa8 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o)
+                0x08003708                __ieee754_pow
+ .text.__ieee754_rem_pio2
+                0x080041b0      0x444 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+                0x080041b0                __ieee754_rem_pio2
+ .text.__ieee754_sqrt
+                0x080045f4      0x180 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_sqrt.o)
+                0x080045f4                __ieee754_sqrt
+ *fill*         0x08004774        0x4 
+ .text.__kernel_cos
+                0x08004778      0x24c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_cos.o)
+                0x08004778                __kernel_cos
+ *fill*         0x080049c4        0x4 
+ .text.__kernel_rem_pio2
+                0x080049c8      0x7fc e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+                0x080049c8                __kernel_rem_pio2
+ *fill*         0x080051c4        0x4 
+ .text.__kernel_sin
+                0x080051c8      0x16c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_sin.o)
+                0x080051c8                __kernel_sin
+ .text.fabs     0x08005334        0x8 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_fabs.o)
+                0x08005334                fabs
+ .text.finite   0x0800533c        0xc e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_finite.o)
+                0x0800533c                finite
+ .text.floor    0x08005348      0x100 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_floor.o)
+                0x08005348                floor
+ .text.matherr  0x08005448        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_matherr.o)
+                0x08005448                matherr
+ .text.nan      0x0800544c        0xc e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_nan.o)
+                0x0800544c                nan
+ .text.rint     0x08005458      0x11c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_rint.o)
+                0x08005458                rint
+ *fill*         0x08005574        0x4 
+ .text.scalbn   0x08005578       0xfc e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_scalbn.o)
+                0x08005578                scalbn
+ .text.copysign
+                0x08005674       0x10 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_copysign.o)
+                0x08005674                copysign
+ .text.__errno  0x08005684        0xc e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-errno.o)
+                0x08005684                __errno
+ .text.memcpy   0x08005690       0x16 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+                0x08005690                memcpy
+ *fill*         0x080056a6        0x2 
+ .text.rand     0x080056a8       0x68 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o)
+                0x080056a8                rand
+ .text          0x08005710       0x10 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+                0x08005710                strlen
+ .text.malloc   0x08005720       0x10 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o)
+                0x08005720                malloc
+ .text._malloc_r
+                0x08005730       0xb4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x08005730                _malloc_r
+ .text._sbrk_r  0x080057e4       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o)
+                0x080057e4                _sbrk_r
+ .text.__malloc_lock
+                0x08005804        0x2 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-mlock.o)
+                0x08005804                __malloc_lock
+ .text.__malloc_unlock
+                0x08005806        0x2 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-mlock.o)
+                0x08005806                __malloc_unlock
+ .text._sbrk    0x08005808       0x1c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a(sbrk.o)
+                0x08005808                _sbrk
+ .text          0x08005824      0x378 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_addsubdf3.o)
+                0x08005824                __aeabi_drsub
+                0x0800582c                __aeabi_dsub
+                0x0800582c                __subdf3
+                0x08005830                __aeabi_dadd
+                0x08005830                __adddf3
+                0x08005aa8                __floatunsidf
+                0x08005aa8                __aeabi_ui2d
+                0x08005ac8                __floatsidf
+                0x08005ac8                __aeabi_i2d
+                0x08005aec                __aeabi_f2d
+                0x08005aec                __extendsfdf2
+                0x08005b30                __floatundidf
+                0x08005b30                __aeabi_ul2d
+                0x08005b40                __floatdidf
+                0x08005b40                __aeabi_l2d
+ .text          0x08005b9c      0x424 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_muldivdf3.o)
+                0x08005b9c                __aeabi_dmul
+                0x08005b9c                __muldf3
+                0x08005df0                __divdf3
+                0x08005df0                __aeabi_ddiv
+ .text          0x08005fc0      0x110 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_cmpdf2.o)
+                0x08005fc0                __gtdf2
+                0x08005fc0                __gedf2
+                0x08005fc8                __ltdf2
+                0x08005fc8                __ledf2
+                0x08005fd0                __nedf2
+                0x08005fd0                __eqdf2
+                0x08005fd0                __cmpdf2
+                0x0800604c                __aeabi_cdrcmple
+                0x0800605c                __aeabi_cdcmpeq
+                0x0800605c                __aeabi_cdcmple
+                0x0800606c                __aeabi_dcmpeq
+                0x08006080                __aeabi_dcmplt
+                0x08006094                __aeabi_dcmple
+                0x080060a8                __aeabi_dcmpge
+                0x080060bc                __aeabi_dcmpgt
+ .text          0x080060d0       0x2c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_unorddf2.o)
+                0x080060d0                __unorddf2
+                0x080060d0                __aeabi_dcmpun
+ .text          0x080060fc       0x50 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixdfsi.o)
+                0x080060fc                __aeabi_d2iz
+                0x080060fc                __fixdfsi
+ .text          0x0800614c       0x40 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixunsdfsi.o)
+                0x0800614c                __aeabi_d2uiz
+                0x0800614c                __fixunsdfsi
  *(.rodata*)
- *fill*         0x0800019a        0x2 
- .rodata.carray
-                0x0800019c       0x10 Waveform_Generator.o
-                0x0800019c                carray
-                0x080001ac                __etext = ALIGN (0x4)
+ .rodata.dev    0x0800618c       0x12 Waveform_Generator.o
+ *fill*         0x0800619e        0x2 
+ .rodata        0x080061a0       0xa1 Waveform_Generator.o
+ *fill*         0x08006241        0x3 
+ .rodata.comm_endp
+                0x08006244        0xf Waveform_Generator.o
+ *fill*         0x08006253        0x1 
+ .rodata.data_endp
+                0x08006254       0x1e Waveform_Generator.o
+ *fill*         0x08006272        0x2 
+ .rodata.cdcacm_functional_descriptors
+                0x08006274       0x13 Waveform_Generator.o
+ *fill*         0x08006287        0x1 
+ .rodata.comm_iface
+                0x08006288       0x15 Waveform_Generator.o
+ *fill*         0x0800629d        0x3 
+ .rodata.data_iface
+                0x080062a0       0x15 Waveform_Generator.o
+ *fill*         0x080062b5        0x3 
+ .rodata.ifaces
+                0x080062b8       0x20 Waveform_Generator.o
+ .rodata.config
+                0x080062d8        0xd Waveform_Generator.o
+ *fill*         0x080062e5        0x3 
+ .rodata.m1     0x080062e8       0x37 Waveform_Generator.o
+                0x080062e8                m1
+ *fill*         0x0800631f        0x1 
+ .rodata.m2     0x08006320       0x22 Waveform_Generator.o
+                0x08006320                m2
+ *fill*         0x08006342        0x2 
+ .rodata.m3     0x08006344       0x18 Waveform_Generator.o
+                0x08006344                m3
+ .rodata.m4     0x0800635c       0x20 Waveform_Generator.o
+                0x0800635c                m4
+ .rodata.m5     0x0800637c        0x9 Waveform_Generator.o
+                0x0800637c                m5
+ *fill*         0x08006385        0x3 
+ .rodata.m6     0x08006388       0x25 Waveform_Generator.o
+                0x08006388                m6
+ *fill*         0x080063ad        0x3 
+ .rodata.m7     0x080063b0       0x10 Waveform_Generator.o
+                0x080063b0                m7
+ .rodata.m8     0x080063c0       0x1b Waveform_Generator.o
+                0x080063c0                m8
+ *fill*         0x080063db        0x1 
+ .rodata.m9     0x080063dc       0x20 Waveform_Generator.o
+                0x080063dc                m9
+ .rodata.m10    0x080063fc       0x18 Waveform_Generator.o
+                0x080063fc                m10
+ .rodata.stm32f107_usb_driver
+                0x08006414       0x34 usb_f107.o
+                0x08006414                stm32f107_usb_driver
+ .rodata.pow.str1.4
+                0x08006448        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o)
+ .rodata.__ieee754_pow.str1.4
+                0x0800644c        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o)
+                                  0x1 (size before relaxing)
+ .rodata.npio2_hw
+                0x08006450       0x80 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.two_over_pi
+                0x080064d0      0x108 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.PIo2   0x080065d8       0x40 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+ .rodata.init_jk
+                0x08006618       0x10 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+ .rodata.TWO52  0x08006628       0x10 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_rint.o)
+                0x08006638                __etext = ALIGN (0x4)
 
-.glue_7         0x080001ac        0x0
- .glue_7        0x080001ac        0x0 linker stubs
+.glue_7         0x08006638        0x0
+ .glue_7        0x08006638        0x0 linker stubs
 
-.glue_7t        0x080001ac        0x0
- .glue_7t       0x080001ac        0x0 linker stubs
+.glue_7t        0x08006638        0x0
+ .glue_7t       0x08006638        0x0 linker stubs
 
-.vfp11_veneer   0x080001ac        0x0
- .vfp11_veneer  0x080001ac        0x0 linker stubs
+.vfp11_veneer   0x08006638        0x0
+ .vfp11_veneer  0x08006638        0x0 linker stubs
 
-.v4_bx          0x080001ac        0x0
- .v4_bx         0x080001ac        0x0 linker stubs
+.v4_bx          0x08006638        0x0
+ .v4_bx         0x08006638        0x0 linker stubs
 
-.iplt           0x080001ac        0x0
- .iplt          0x080001ac        0x0 Waveform_Generator.o
+.iplt           0x08006638        0x0
+ .iplt          0x08006638        0x0 Waveform_Generator.o
 
-.rel.dyn        0x080001ac        0x0
- .rel.iplt      0x080001ac        0x0 Waveform_Generator.o
+.rel.dyn        0x08006638        0x0
+ .rel.iplt      0x08006638        0x0 Waveform_Generator.o
 
-.data           0x20000000       0x10 load address 0x080001ac
+.data           0x20000000       0x84 load address 0x08006638
                 0x20000000                __data_start__ = .
  *(vtable)
  *(.data*)
- .data.iarray   0x20000000       0x10 Waveform_Generator.o
-                0x20000000                iarray
-                0x20000010                . = ALIGN (0x4)
+ .data.usb_strings
+                0x20000000        0xc Waveform_Generator.o
+ .data.i        0x2000000c        0x1 Waveform_Generator.o
+                0x2000000c                i
+ *fill*         0x2000000d        0x3 
+ .data.frequency_int
+                0x20000010        0x4 Waveform_Generator.o
+                0x20000010                frequency_int
+ .data.amplitude_int
+                0x20000014        0x4 Waveform_Generator.o
+                0x20000014                amplitude_int
+ .data.max_freq
+                0x20000018        0x4 Waveform_Generator.o
+                0x20000018                max_freq
+ .data.__fdlib_version
+                0x2000001c        0x1 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_lib_ver.o)
+                0x2000001c                __fdlib_version
+ *fill*         0x2000001d        0x3 
+ .data._impure_ptr
+                0x20000020        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-impure.o)
+                0x20000020                _impure_ptr
+ .data.impure_data
+                0x20000024       0x60 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-impure.o)
+                0x20000084                . = ALIGN (0x4)
                 [!provide]                PROVIDE (__preinit_array_start = .)
  *(.preinit_array)
                 [!provide]                PROVIDE (__preinit_array_end = .)
-                0x20000010                . = ALIGN (0x4)
+                0x20000084                . = ALIGN (0x4)
                 [!provide]                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array)
                 [!provide]                PROVIDE (__init_array_end = .)
-                0x20000010                . = ALIGN (0x4)
+                0x20000084                . = ALIGN (0x4)
                 [!provide]                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array)
                 [!provide]                PROVIDE (__fini_array_end = .)
  *(.jcr*)
-                0x20000010                . = ALIGN (0x4)
-                0x20000010                __data_end__ = .
+                0x20000084                . = ALIGN (0x4)
+                0x20000084                __data_end__ = .
 
-.igot.plt       0x20000010        0x0 load address 0x080001bc
- .igot.plt      0x20000010        0x0 Waveform_Generator.o
+.igot.plt       0x20000084        0x0 load address 0x080066bc
+ .igot.plt      0x20000084        0x0 Waveform_Generator.o
 
-.bss            0x20000010       0x10 load address 0x080001bc
-                0x20000010                . = ALIGN (0x4)
-                0x20000010                __bss_start__ = .
+.bss            0x20000084      0x250 load address 0x080066bc
+                0x20000084                . = ALIGN (0x4)
+                0x20000084                __bss_start__ = .
  *(.bss*)
- .bss.uarray    0x20000010       0x10 Waveform_Generator.o
-                0x20000010                uarray
+ .bss.counter   0x20000084        0x1 Waveform_Generator.o
+                0x20000084                counter
+ .bss.process   0x20000085        0x1 Waveform_Generator.o
+                0x20000085                process
+ .bss.x         0x20000086        0x2 Waveform_Generator.o
+                0x20000086                x
+ .bss.Signal    0x20000088       0x64 Waveform_Generator.o
+                0x20000088                Signal
+ .bss.request   0x200000ec        0x1 Waveform_Generator.o
+                0x200000ec                request
+ .bss.request_1
+                0x200000ed        0x1 Waveform_Generator.o
+                0x200000ed                request_1
+ .bss.request_2
+                0x200000ee        0x1 Waveform_Generator.o
+                0x200000ee                request_2
+ .bss.mode      0x200000ef        0x1 Waveform_Generator.o
+                0x200000ef                mode
+ .bss.buf       0x200000f0       0x40 Waveform_Generator.o
+                0x200000f0                buf
+ .bss.waveform  0x20000130        0x1 Waveform_Generator.o
+                0x20000130                waveform
+ *fill*         0x20000131        0x3 
+ .bss.frequency
+                0x20000134        0x7 Waveform_Generator.o
+                0x20000134                frequency
+ *fill*         0x2000013b        0x1 
+ .bss.amplitude
+                0x2000013c        0x4 Waveform_Generator.o
+                0x2000013c                amplitude
+ .bss.max_freq_string
+                0x20000140        0x6 Waveform_Generator.o
+                0x20000140                max_freq_string
+ *fill*         0x20000146        0x2 
+ .bss.usbd_control_buffer
+                0x20000148       0x80 Waveform_Generator.o
+                0x20000148                usbd_control_buffer
+ .bss.usbd_dev  0x200001c8       0xfc usb_f107.o
+ .bss.__malloc_free_list
+                0x200002c4        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200002c4                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x200002c8        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200002c8                __malloc_sbrk_start
+ .bss.heap_end.5377
+                0x200002cc        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a(sbrk.o)
  *(COMMON)
-                0x20000020                . = ALIGN (0x4)
-                0x20000020                __bss_end__ = .
+ COMMON         0x200002d0        0x4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+                0x200002d0                errno
+                0x200002d4                . = ALIGN (0x4)
+                0x200002d4                __bss_end__ = .
 
-.heap           0x20000020        0x0
-                0x20000020                __end__ = .
-                [!provide]                PROVIDE (end = .)
+.heap           0x200002d4        0x0
+                0x200002d4                __end__ = .
+                0x200002d4                PROVIDE (end = .)
  *(.heap*)
-                0x20000020                __HeapLimit = .
+                0x200002d4                __HeapLimit = .
 
-.stack_dummy    0x20000020        0x0
+.stack_dummy    0x200002d4        0x0
  *(.stack*)
                 0x20020000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
                 0x20020000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
@@ -120,34 +750,130 @@ END GROUP
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
 OUTPUT(Waveform_Generator.elf elf32-littlearm)
 
-.debug_info     0x00000000      0x406
- .debug_info    0x00000000      0x406 Waveform_Generator.o
-
-.debug_abbrev   0x00000000      0x15b
- .debug_abbrev  0x00000000      0x15b Waveform_Generator.o
-
-.debug_aranges  0x00000000       0x40
- .debug_aranges
-                0x00000000       0x40 Waveform_Generator.o
-
-.debug_ranges   0x00000000       0x30
- .debug_ranges  0x00000000       0x30 Waveform_Generator.o
-
-.debug_line     0x00000000       0xeb
- .debug_line    0x00000000       0xeb Waveform_Generator.o
-
-.debug_str      0x00000000      0x34e
- .debug_str     0x00000000      0x34e Waveform_Generator.o
-                                0x360 (size before relaxing)
-
 .comment        0x00000000       0x7f
  .comment       0x00000000       0x7f Waveform_Generator.o
                                  0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 usb.o
+ .comment       0x0000007f       0x80 usb_standard.o
+ .comment       0x0000007f       0x80 usb_control.o
+ .comment       0x0000007f       0x80 usb_dwc_common.o
+ .comment       0x0000007f       0x80 usb_f107.o
+ .comment       0x0000007f       0x80 system_stm32f4xx.o
 
 .ARM.attributes
-                0x00000000       0x33
+                0x00000000       0x35
  .ARM.attributes
-                0x00000000       0x33 Waveform_Generator.o
+                0x00000000       0x37 Waveform_Generator.o
+ .ARM.attributes
+                0x00000037       0x37 usb.o
+ .ARM.attributes
+                0x0000006e       0x37 usb_standard.o
+ .ARM.attributes
+                0x000000a5       0x37 usb_control.o
+ .ARM.attributes
+                0x000000dc       0x37 usb_dwc_common.o
+ .ARM.attributes
+                0x00000113       0x37 usb_f107.o
+ .ARM.attributes
+                0x0000014a       0x37 system_stm32f4xx.o
+ .ARM.attributes
+                0x00000181       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o)
+ .ARM.attributes
+                0x000001b3       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x000001e5       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x00000217       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+ .ARM.attributes
+                0x00000249       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000027b       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_cos.o)
+ .ARM.attributes
+                0x000002ad       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x000002df       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_sin.o)
+ .ARM.attributes
+                0x00000311       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x00000343       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x00000375       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x000003a7       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000003d9       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x0000040b       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x0000043d       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x0000046f       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x000004a1       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x000004d3       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000505       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000537       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000569       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o)
+ .ARM.attributes
+                0x0000059b       0x1b e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000005b6       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x000005e8       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000061a       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000064c       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000067e       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000006b0       0x32 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x000006e2       0x22 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000704       0x22 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000726       0x22 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000748       0x22 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x0000076a       0x22 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000078c       0x22 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixunsdfsi.o)
 
-.debug_frame    0x00000000       0x80
- .debug_frame   0x00000000       0x80 Waveform_Generator.o
+.debug_frame    0x00000000      0x774
+ .debug_frame   0x00000000       0x40 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_sin.o)
+ .debug_frame   0x00000040       0x48 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x00000088       0x68 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x000000f0       0x44 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_rem_pio2.o)
+ .debug_frame   0x00000134       0x30 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00000164       0x4c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_cos.o)
+ .debug_frame   0x000001b0       0x58 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_rem_pio2.o)
+ .debug_frame   0x00000208       0x48 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-k_sin.o)
+ .debug_frame   0x00000250       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x00000270       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x00000290       0x30 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_floor.o)
+ .debug_frame   0x000002c0       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x000002e0       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00000300       0x38 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x00000338       0x30 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x00000368       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x00000388       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x000003a8       0x28 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000003d0       0x48 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-rand.o)
+ .debug_frame   0x00000418       0x30 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000448       0x2c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000474       0x2c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x000004a0       0x30 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x000004d0       0x5c e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000052c       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libnosys.a(sbrk.o)
+ .debug_frame   0x0000054c       0xac e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x000005f8       0x50 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000648       0xc4 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x0000070c       0x20 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x0000072c       0x24 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000750       0x24 e:/development/embedded/gnu tools arm embedded/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/softfp\libgcc.a(_arm_fixunsdfsi.o)
